@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharth1india" alt="siddharth1india" /></a> </p>
 
-- 🔭 I’m currently working on **Django Projects.**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Database management and Deep Learning**
+- 🌱 I’m currently learning **Database management and Full Stack Dev**
 
-- 💬 Ask me about **backend with django, frontend dev and sql database**
+- 💬 Ask me about **Backend with django, frontend dev and sql database or Anything about Machine Learning and Deep Learning**
 
 - 📫 How to reach me **siddharth2000patel@gmail.com**
 
