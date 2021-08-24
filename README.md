@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddharth!</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=Siddharth1India&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
- </p>
 
 - 🔭 I’m currently working on **Machine Learning**
 
