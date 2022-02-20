@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Siddharth!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
 
 - 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Database management and Full Stack Dev**
+- 🌱 I’m currently learning **Deep Learning and Reinforcement Learning**
 
-- 💬 Ask me about **Backend with django, frontend dev and sql database or Anything about Machine Learning and Deep Learning**
+- 💬 Ask me about **Machine Learning, Deep Learning and Reinforcement Learning**
 
 - 📫 How to reach me **siddharth2000patel@gmail.com**
 
