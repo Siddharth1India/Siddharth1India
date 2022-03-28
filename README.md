@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/siddharth1india" target="blank">Twitter</a>
+<a href="https://twitter.com/siddharth1india" target="blank">Twitter</a><br>
   <a href="https://www.producthunt.com/@siddharth1india" target="blank">Product Hunt</a>
 </p>
 
