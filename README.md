@@ -10,6 +10,10 @@
 
 - 📫 How to reach me **siddharth2000patel@gmail.com**
 
+- I have worked as ML intern at ISRO. 
+
+- Won qhack 2022 (Science Challenge and Young Scientist Challenge) [Code for Weighted Subspace Search VQE to find Kth Excited state energies here](https://github.com/Siddharth1India/Qhack-2022) 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/siddharth1india" target="blank">Twitter</a><br>
