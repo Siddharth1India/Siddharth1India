@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Deep Learning and Reinforcement Learning**
+- 🌱 I’m currently learning **Deep Learning, Reinforcement Learning and Quantum Computing**
 
 - 💬 Ask me about **Machine Learning, Deep Learning and Reinforcement Learning**
 
