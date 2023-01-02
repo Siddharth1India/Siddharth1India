@@ -10,7 +10,9 @@
 
 - 📫 How to reach me **siddharth2000patel@gmail.com**
 
-- I have worked as ML intern at ISRO. 
+- I am working as ML engineer at SSB Digital.
+
+- I have worked as ML intern at ISRO, BISAG-N. 
 
 - 2nd rank, qhack 2022 (Science Challenge and Young Scientist Challenge) [Code for Weighted Subspace Search VQE to find Kth Excited state energies here](https://github.com/Siddharth1India/Qhack-2022) 
 
