@@ -2,19 +2,9 @@
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I work on **Machine Learning**
 
-- 🌱 I’m currently learning **Deep Learning, Reinforcement Learning and Quantum Computing**
-
-- 💬 Ask me about **Machine Learning, Deep Learning and Reinforcement Learning**
-
-- 📫 How to reach me **siddharth2000patel@gmail.com**
-
-- I am working as ML engineer at SSB Digital.
-
-- I have worked as ML intern at ISRO, BISAG-N. 
-
-- 2nd rank, qhack 2022 (Science Challenge and Young Scientist Challenge) [Code for Weighted Subspace Search VQE to find Kth Excited state energies here](https://github.com/Siddharth1India/Qhack-2022) 
+- 📫 Mail: **siddharth2000patel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
