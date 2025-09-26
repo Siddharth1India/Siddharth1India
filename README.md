@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth</h1>
-<h3 align="center">I write code, ML stuff usually, sometime web</h3>
-
-
-- I work on **Machine Learning**
+<h3 align="center">I write code, iOS apps usually, sometime web</h3>
 
 - Mail: **siddharth2000patel@gmail.com**
 
