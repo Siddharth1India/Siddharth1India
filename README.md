@@ -2,9 +2,9 @@
 <h3 align="center">I write code, iOS apps usually, sometime web</h3>
 <hr>
 Founder:
-<a href="https://llamarush.com/">LLaMaRush</a>
-<a href="https://www.icekulfi.com/">IceKulfi</a>
-<a href="https://aibankstatement.com/">AIBankStatement</a>
+<a href="https://llamarush.com/">LLaMaRush</a> <br>
+<a href="https://www.icekulfi.com/">IceKulfi</a> <br>
+<a href="https://aibankstatement.com/">AIBankStatement</a> <br>
 <hr>
 - Mail: **siddharth2000patel@gmail.com**
 
